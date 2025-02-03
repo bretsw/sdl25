@@ -4,7 +4,7 @@ Presentation slide deck for **Game Developers’ Self-Directed Learning to Navig
 
 March 13, 2025
 
-![](img/game-dev.jpg)
+![](img/game-dev.png)
 
 
 ![Preprint paper available here](sdl25-preprint.pdf)

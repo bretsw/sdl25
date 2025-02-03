@@ -50,229 +50,109 @@ class: inverse, center, middle
 
 ---
 
-# `r fa("far fa-compass", fill = "#fff")` Beginning Teachers
+# `r fa("far fa-compass", fill = "#fff")` A Volatile Industry
 
-```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/game-controller.png")
 ```
 
 --
 
-Teaching is hard at any career stage
+Changes in the video game industry:
 
 --
 
-but especially starting.
+- Repeating rounds of layoffs
+
+--
+
+- Shifting market interest to genres like dating simulators and role-playing games (RPGs)
+
+--
+
+- Emerging technologies (AR, VR, AI)
 
 ---
 
-# `r fa("far fa-compass", fill = "#fff")` Beginning Teachers
+# `r fa("far fa-compass", fill = "#fff")` Workplace Learning
 
 ```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+include_graphics("img/bored-dev.png")
 ```
-
-Social media tools offer new opportunities for beginning teachers
 
 --
 
-but also introduce new challenges.
-
----
-
-# `r fa("far fa-compass", fill = "#fff")` Beginning Teachers
-
-```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/crowd.jpg")
-```
-
-Beginning teachers must juggle more competing voices 
+Corporate training and mandated professional development can't keep up
 
 --
 
-and for ongoing learning of what and how to teach.
-
----
-
-# `r fa("far fa-compass", fill = "#fff")` Beginning Teachers
-
-```{r, out.width = "320px", echo = FALSE, fig.align = "center"}
-include_graphics("img/stress.jpg")
-```
-
-Professional development can't keep up,
+and struggles to engage learners
 
 --
 
-so self-directed learning is more important than ever.
+`r fa("fas fa-arrow-right", fill = "#782F40")` 80% of workplace learning is informal (Yeo, 2008)
+
+
+
+
 
 ---
 
 class: inverse, center, middle
 
-# `r fa("fas fa-arrows-left-right-to-line", fill = "#fff")` <br><br> Gap
+# `r fa("far fa-square", fill = "#fff")` <br><br> Framework
 
 ---
 
-# `r fa("fas fa-arrows-left-right-to-line", fill = "#fff")` Gap
+# `r fa("far fa-square", fill = "#fff")` Self-Directed Learning
 
 ```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/puzzle-gap.jpg")
+include_graphics("img/learning.png")
 ```
 
 --
 
-Unclear how self-directed learning through social media 
+**Autonomy**
 
 --
 
-impacts instructional practice
+**\+**
+
+--
+
+**Intentionality**
 
 ---
 
-class: inverse, center, middle
+# `r fa("far fa-square", fill = "#fff")` Context-Aware Self-Teaching
 
-# `r fa("fas fa-mountain-sun", fill = "#fff")` <br><br> Framework
-
----
-
-class: inverse, center, middle
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` <br><br> Context-Aware Self-Teaching <br> (CAST)
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/context-aware.png")
 ```
 
 --
 
-### SDL as a Journey
+1. `r fa("fas fa-map-pin", fill = "#782F40")` Performance Objective
 
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey.png")
-```
-
-### SDL as a Journey
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey1.png")
-```
-
-### SDL as a Journey: **1. Performance Objective**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey2.png")
-```
-
-### SDL as a Journey: **2. Starting Context**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey3.png")
-```
-
-### SDL as a Journey: **3. Practice Opportunities**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey4.png")
-```
-
-### SDL as a Journey: **4. Difficulty Level**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey5.png")
-```
-
-### SDL as a Journey: **5. Content Area**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey6.png")
-```
-
-### SDL as a Journey: **6. External Guide**
-
----
-
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Context-Aware Self-Teaching
-
-1. `r fa("far fa-circle-dot", fill = "#782F40")` Performance Objective
+--
 
 2. `r fa("fas fa-house-user", fill = "#782F40")` Starting Context
 
-3. `r fa("fas fa-person-walking", fill = "#782F40")` Practice Opportunities
+--
 
-4. `r fa("fas fa-gauge-high", fill = "#782F40")` Difficulty Level
-
-5. `r fa("fas fa-cubes-stacked", fill = "#782F40")` Content Area
-
-6. `r fa("fas fa-people-arrows", fill = "#782F40")` External Guide
-
----
-
-class: inverse, center, middle
-
-# `r fa("fas fa-compass", fill = "#fff")` <br><br> Purpose
-
----
-
-# `r fa("fas fa-compass", fill = "#fff")` Purpose
-
-```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
-```
+3. `r fa("fas fa-person-walking", fill = "#782F40")` Exploration and Practice
 
 --
 
-Explore how beginning science teachers
+4. `r fa("fas fa-gauge-high", fill = "#782F40")` Maintenance of Difficulty Level
 
 --
 
-seek SDL through social media
-
----
-
-# `r fa("fas fa-compass", fill = "#fff")` Purpose
-
-```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
-```
-
-**RQ1.** What social media sources for SDL?
+5. `r fa("fas fa-people-arrows", fill = "#782F40")` Supplementing with External Guides
 
 --
 
-**RQ2.** What effect does SDL through social media have on instructional practice?
+6. `r fa("fas fa-ruler-combined", fill = "#782F40")` Evaluation
 
 
 
@@ -282,283 +162,477 @@ include_graphics("img/game-dev.png")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-screwdriver-wrench", fill = "#fff")` <br><br> Method
+# `r fa("fas fa-map-pin", fill = "#fff")` <br><br> Purpose 
 
 ---
 
-# `r fa("fas fa-screwdriver-wrench", fill = "#fff")` Method
+# `r fa("fas fa-map-pin", fill = "#fff")` Purpose
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/cases.jpg")
-```
-
-**Design:**
-
---
-
-Qualitative Multiple Case Study
-
----
-
-# `r fa("fas fa-screwdriver-wrench", fill = "#fff")` Method
-
-```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
 include_graphics("img/game-dev.png")
 ```
 
-**Participants:**
+--
+
+**To explore how game developers engage in SDL to acquire and enhance their professional skills:**
 
 --
 
-- FSU alumni (*n* = 5)
+- RQ1. **What reasons** prompt game developers to engage in SDL? 
 
 --
 
-- Science teachers in Florida (across middle and high school)
+- RQ2. How do game developers **navigate challenges** they face during SDL?
 
---
 
-- First or second year of teaching
 
---
 
-- Active social media users
-
----
-
-# `r fa("fas fa-screwdriver-wrench", fill = "#fff")` Method
-
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/writing.jpg")
-```
-
-**Data Collection:** (March to May 2022)
-
---
-
-- 8 weeks of **diary entries** reflecting upon social media use
-
---
-
-- Pre- and post-**interviews**
-
---
-
-- 3 **think aloud** demonstrations of lesson plans
-
----
-
-# `r fa("fas fa-screwdriver-wrench", fill = "#fff")` Method
-
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/colors.jpg")
-```
-
-**Data Analysis:**
-
---
-
-- Thematic analysis of diary entries and interview transcripts
-
---
-
-- CAST framework + emergent codes
 
 ---
 
 class: inverse, center, middle
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` <br><br> Results
+# `r fa("fas fa-list", fill = "#fff")` <br><br> Method 
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-list", fill = "#fff")` Method: Design
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/interview.jpg")
+```
+
+### Qualitative Interview Study
+
+---
+
+# `r fa("fas fa-list", fill = "#fff")` Method: Participants
+
+| Name          | Sector   | Role                       | Experience           | Training |
+|---------------|----------|----------------------------|----------------------|----------|
+| Adele         | Industry | Producer, Director         | 1–3 years            | Yes      |
+| Creative Cat  | Academia | Game Developer             | 4-6 years            | Yes      |
+| Daniel        | Industry | Level Designer             | More than 10 years   | Yes      |
+| Dorothy       | Industry | Automation, UX             | 4-6 years            | Yes      |
+| Helen         | Industry | Gameplay Engineer          | More than 10 years   | Yes      |
+| Lily          | Academia | Game Developer             | Less than 1 year     | No       |
+| Mana          | Industry | Writer, Director           | 1–3 years            | No       |
+| Mango Badger  | Industry | Writer, Narrative Designer | 1–3 years            | No       |
+| Ryan          | Academia | Game Developer             | 7-10 years           | No       |
+| Scorpion      | Industry | Composer, Music Designer   | More than 10 years   | Yes      |
+| Sean          | Industry | Game Executive             | More than 10 years   | No       |
+
+---
+
+# `r fa("fas fa-list", fill = "#fff")` Method: Data Collection
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/interview.jpg")
+```
+
+### One-hour, semi-structured interviews
+
+---
+
+# `r fa("fas fa-list", fill = "#fff")` Method: Data Analysis
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/themes.png")
+```
+
+### Thematic Analysis (Braun & Clarke, 2022)
+
+
+
+
+
+
+
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-cubes-stacked", fill = "#fff")` <br><br> Results
+
+---
+
+# `r fa("fas fa-cubes-stacked", fill = "#fff")` Results: Themes
+
+| Research Question                                           | Theme               | Subthemes                      |
+|-------------------------------------------------------------|---------------------|----------------------------------|
+| RQ1. What reasons prompt game developers to engage in SDL?  | External Motivations| Social Factors, <br>Process Factors, <br>Financial Factors |
+|                                                             | Internal Motivations| Curiosity, <br>Openness, <br>Excellence  |
+| RQ2. How do game developers navigate challenges they face during SDL? | Processes          | Trial-and-Error, <br>Self-Evaluation |
+|                                                             | Supports            | Social Supports, <br>Workplace Supports, <br>Tools |
+
+
+
+
+
+---
+
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
 ```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
-include_graphics("img/build.jpg")
+include_graphics("img/hikers-peak.png")
 ```
 
-**`r fa("fas fa-triangle-exclamation", fill = "#782F40")` Analysis is still in progress `r fa("fas fa-triangle-exclamation", fill = "#782F40")`**
-
---
-
-Results presented here represent 2 of the 5 participants
+**RQ1. What reasons prompt game developers to engage in SDL?**
 
 ---
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
---
-
-**Ginny**
+### External Motivations: Social Factors
 
 --
 
-- First-year 8th-grade science teacher in a public school
+`r fa("fas fa-quote-left", fill = "#782F40")` "I need this function, and I've had this request from a stakeholder... that kind of drives you to want to find out how to do it."
 
---
-
-- TeachersPayTeachers.com (TPT), TikTok, and YouTube for professional learning
+**~Ryan**
 
 ---
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Sarah**
+### External Motivations: Social Factors
 
---
+`r fa("fas fa-quote-left", fill = "#782F40")` "I want to do right by people, to do my part, so that they can do their part, and we can all look at this thing at the end and be like, wow, I was part of that."
 
-- First-year high school science teacher in a private Catholic school
+**~Mana**
 
---
 
-- Facebook and Instagram for professional learning
 
 ---
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Both Ginny and Sarah**
+### External Motivations: Process Factors
 
 --
 
-- Social aspect of SDL very important, but based in school
+`r fa("fas fa-quote-left", fill = "#782F40")` "How can I get to my end goal with as least friction as possible without bothering people in the interim?"
 
---
-
-- Social media tools were a secondary outlet for SDL
-
---
-
-- Social media tools were for finding resources and ideas for instruction as well as staying updated on what is happening 
+**~Dorothy**
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
---
+### External Motivations: Process Factors
 
-**RQ1. What social media sources for SDL?**
+`r fa("fas fa-quote-left", fill = "#782F40")` "That writer mentality of you want to be part of this conversation that's already been going on for a long, long time."
 
---
+**~Adele**
 
-- TeachersPayTeachers.com (TPT), TikTok, YouTube, Facebook, and Instagram
 
---
-
-- But SDL spanned online and local, with in-school being primary
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Usefulness of SDL through social media:**
+### External Motivations: Financial Factors
 
 --
 
-- Getting the broad perspectives
-
---
-
-- Efficiently finding ideas and resources 
+**Scorpion:** A stable job during a recession provided the foundation to explore their interests in a sustainable way
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Limits of SDL through social media:**
+### External Motivations: Financial Factors
 
---
+**Dorothy:** Personal realities such as a hidden disability meant that SDL for game development was essential for survival
 
-- Maintaining social boundaries around social media use
+
+
+
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Limits of SDL through social media:**
+### Internal Motivations: Curiosity
 
-- Finding time to locate and adapt resources
+--
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "The key to art is curiosity."
+
+**~Scorpion**
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-**Limits of SDL through social media:**
+### Internal Motivations: Curiosity
 
-- Determining quality and relevancy of instructional resources found through social media
+**Dorothy:** Paired curiosity with empathy—a curiosity of what life and experiences are like for other people
+
+
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
-
-**RQ2. What effect on instructional practice?**
-
---
-
-- More often, **noninstructional** impacts: 
+### Internal Motivations: Openness
 
 --
 
-  - stress relief, staying informed, prompts for self-reflection
+`r fa("fas fa-quote-left", fill = "#782F40")` "I guess I just pull from the source of curiosity and knowledge to create something that I think feels and sounds good."
+
+**~Scorpion**
 
 ---
 
-# `r fa("fas fa-magnifying-glass", fill = "#fff")` Results
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/game-dev.png")
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
 ```
 
+### Internal Motivations: Openness
 
-**RQ2. What effect on instructional practice?**
+`r fa("fas fa-quote-left", fill = "#782F40")` "I felt like I could learn a lot from working with 3D people, working with 2D people, working with a writer, working with composers, working with sound effects, voice actors."
 
-- Some **instructional** impacts: 
+**~Adele**
+
+
+
+---
+
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
+```
+
+### Internal Motivations: Excellence
 
 --
 
-  - being inspired by and getting resources from other teachers 
+`r fa("fas fa-quote-left", fill = "#782F40")` "The internal motivation is that I want to do well at whatever I’m doing."
+
+**~Mana**
+
+---
+
+# `r fa("fas fa-mountain", fill = "#fff")` Results: RQ1
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-peak.png")
+```
+
+### Internal Motivations: Excellence
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "I wanted to make a game just because I wanted to have a shared experience with my friends. As they play along and experience a story that I created, we’d enjoy it together."
+
+**~Adele**
+
+
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+**RQ2. How do game developers navigate challenges they face during SDL?**
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Processes: Trial-and-Error
 
 --
 
-  - but, generally limited in scope
+`r fa("fas fa-quote-left", fill = "#782F40")` "Past hurdles I’ve overcome mediate how outside the box I can think."
+
+**~Ryan**
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Processes: Trial-and-Error
+
+**Daniel:** Systematic approach: Google `r fa("fas fa-arrow-right", fill = "#782F40")` YouTube tutorials `r fa("fas fa-arrow-right", fill = "#782F40")` Friends `r fa("fas fa-arrow-right", fill = "#782F40")` Community-created resources
+
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Processes: Self-Evaluation
+
+--
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "Through these last years, I have a lot of projects that are kind of midway through. So now my objective is to finish up that work using these new tools."
+
+**~Daniel**
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Processes: Self-Evaluation
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "Thinking that even what you’re good at, you’re the best at, is one of the worst mentalities I think a person could get into."
+
+**~Mana**
+
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Social Supports
+
+--
+
+**Scorpion:** Importance of social networks for creating opportunities and opening up possibilities
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Social Supports
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "I feel like because of the nature of remote work, people are not really available in the way that they would like to be available."
+
+**~Daniel**
+
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Workplace Supports
+
+--
+
+**Scorpion:** Benefited from the job experiences and transferable skills gained from a past job 
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Workplace Supports
+
+**Adele and Mana:** The makeup and culture of their indie team was a workplace support in itself
+
+
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Tools
+
+--
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "The technology and the application get conflated a lot."
+
+**~Dorothy**
+
+---
+
+# `r fa("fas fa-forward", fill = "#fff")` Results: RQ2
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/hikers-steep.png")
+```
+
+### Supports: Tools
+
+`r fa("fas fa-quote-left", fill = "#782F40")` "It's even before necessarily knowing what you need to do, just sort of immersing yourselves into those spaces so that you're casually absorbing information even if you don't need it yet."
+
+**~Mana**
+
+
+
+
 
 
 
@@ -574,66 +648,68 @@ class: inverse, center, middle
 # `r fa("fas fa-person-chalkboard", fill = "#fff")` Discussion
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+include_graphics("img/context-aware.png")
 ```
 
 --
 
-- Literature describes lots possibilities for SDL through social media,
+**External themes:** McCartney et al.’s (2016) research on computing students’ SDL
 
 --
 
-- but this is not evident here.
+- "I Just Had to Make It Work"
+
+--
+
+- "Making Up Projects so I Can Learn"
+
+--
+
+- "I Don’t Want to Let Them Down"
 
 ---
 
 # `r fa("fas fa-person-chalkboard", fill = "#fff")` Discussion
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+include_graphics("img/context-aware.png")
 ```
 
-- Do they know how? 
+**Internal themes:** (McCartney et al., 2016)
 
 --
 
-- Are they interested? 
+- "I Love to Learn"
 
 --
 
-- Do they have capacity?
+- "I Want to Grow"
+
+--
+
+- "I Was Afraid I’d Look Like a Fool"
 
 ---
 
 # `r fa("fas fa-person-chalkboard", fill = "#fff")` Discussion
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+include_graphics("img/context-aware.png")
 ```
 
-- Across 13 chances (8 weeks of diary entries and 5 interviews), SDL through social media was very limited
-
---
-
-- Getting a few ideas for classroom management, warm-up activities, lesson resources that needed to be modified. 
+Different types of learning happen in different career stages as the need for and focus of learning changes in the stages. 
 
 ---
 
 # `r fa("fas fa-person-chalkboard", fill = "#fff")` Discussion
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+include_graphics("img/context-aware.png")
 ```
 
-- Did not look for mentors, seek out feedback, or test new ideas
+AI holds possibilities and perils for SDL
 
---
-
-- Solitary, information-retrieval approach than a community-oriented one
-
---
-
-- Some affordances of social media were maximized while others were neglected
+- Concerns about consent, transparency, and ethical implications 
 
 
 
@@ -643,41 +719,27 @@ include_graphics("img/SDL.png")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` <br><br> Implications
+# `r fa("fas fa-map-pin", fill = "#fff")` <br><br> Implications
 
 ---
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Implications
+# `r fa("fas fa-map-pin", fill = "#fff")` Implications
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/character-builder.png")
 ```
 
 --
 
-1. SDL is an essential skill for teachers at all career stages
+1. SDL can help enhance game developers’ professional growth and resilience
 
 --
 
-2. SDL should be viewed as part of a professional development **ecosystem**
+2. SDL can help maintain a versatile and up-to-date skill set
 
 --
 
-3. SDL is a voluntary effort that should be acknowledged and supported
-
----
-
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Implications
-
-```{r, out.width = "640px", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-SDL-journey.png")
-```
-
-1. SDL is an essential skill for teachers at all career stages
-
-2. SDL should be viewed as part of a professional development **ecosystem**
-
-3. SDL is a voluntary effort that should be acknowledged and supported
+3. SDL can help foster a culture of innovation and collaboration
 
 
 
@@ -687,27 +749,24 @@ include_graphics("img/0-SDL-journey.png")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` <br><br> Limitations & <br> Future Research
+# `r fa("fas fa-arrows-left-right-to-line", fill = "#fff")` <br><br> Limitations & <br> Future Research
 
 ---
 
-# `r fa("fas fa-person-chalkboard", fill = "#fff")` Limitations
+# `r fa("fas fa-arrows-left-right-to-line", fill = "#fff")` Limitations
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/tune.jpg")
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/tune.png")
 ```
 
 --
 
-- Finish data analysis
+- Mostly academic and indie game spaces `r fa("fas fa-arrow-right", fill = "#782F40")` Sample more from large studios
 
 --
 
-- Include classroom observations and conduct study over longer period 
+- Snapshot self-reported data `r fa("fas fa-arrow-right", fill = "#782F40")` Longitudinal and unobtrusive methods
 
---
-
-- Conduct design- or intervention-based research to validate the CAST framework
 
 
 
@@ -720,19 +779,27 @@ class: inverse, center, middle
 
 ---
 
-# `r fa("far fa-compass", fill = "#fff")` Conclusion
+# `r fa("far fa-compass", fill = "#fff")` A Volatile Industry
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/SDL.png")
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/game-controller.png")
 ```
 
 --
 
-- 
+**SDL for navigating changes in the video game industry:**
 
 --
 
-- 
+- Self-teach how to use emerging technologies
+
+--
+
+- Keep up with and adapt to changing market interests
+
+--
+
+- Endure repeated rounds of layoffs
 
 
 
@@ -750,6 +817,6 @@ class: inverse, center, middle
 
 <br><br><br><br>
 
-**Bret Staudt Willet** | Florida State University
+**Bret Staudt Willet | Zhongyu Wang | Jiabei Xu** <br><br> Florida State University
 
 `r fa("envelope", fill = "#fff")` [bret.staudtwillet@fsu.edu](mailto:bret.staudtwillet@fsu.edu) | `r fa("globe", fill = "#fff")` [bretsw.com](https://bretsw.com/) | `r fa("fab fa-github", fill = "#fff")` [GitHub](https://github.com/bretsw/)
